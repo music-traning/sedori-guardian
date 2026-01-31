@@ -1,0 +1,320 @@
+{
+    "hardoff": [
+        {
+            "name": "PlayStation2 (SCPH-30000)",
+            "category": "ゲーム",
+            "minPrice": 500,
+            "maxPrice": 2500
+        },
+        {
+            "name": "ゲームボーイカラー (全色)",
+            "category": "ゲーム",
+            "minPrice": 3000,
+            "maxPrice": 8000
+        },
+        {
+            "name": "Nintendo64 本体",
+            "category": "ゲーム",
+            "minPrice": 1000,
+            "maxPrice": 4000
+        },
+        {
+            "name": "セガサターン (白)",
+            "category": "ゲーム",
+            "minPrice": 2000,
+            "maxPrice": 6000
+        },
+        {
+            "name": "ドリームキャスト",
+            "category": "ゲーム",
+            "minPrice": 3000,
+            "maxPrice": 9000
+        },
+        {
+            "name": "スーパーファミコン (黄ばみ)",
+            "category": "ゲーム",
+            "minPrice": 300,
+            "maxPrice": 1500
+        },
+        {
+            "name": "謎のACアダプタ類",
+            "category": "ジャンク",
+            "minPrice": 100,
+            "maxPrice": 500
+        },
+        {
+            "name": "片方だけのイヤホン",
+            "category": "ジャンク",
+            "minPrice": 10,
+            "maxPrice": 100
+        },
+        {
+            "name": "起動しないノートPC",
+            "category": "ジャンク",
+            "minPrice": 500,
+            "maxPrice": 3000
+        },
+        {
+            "name": "ホコリまみれのルーター",
+            "category": "ジャンク",
+            "minPrice": 100,
+            "maxPrice": 300
+        },
+        {
+            "name": "大量のRCAケーブル",
+            "category": "ジャンク",
+            "minPrice": 100,
+            "maxPrice": 300
+        },
+        {
+            "name": "VHSビデオデッキ",
+            "category": "中古家電",
+            "minPrice": 1000,
+            "maxPrice": 4000
+        },
+        {
+            "name": "昭和の扇風機",
+            "category": "中古家電",
+            "minPrice": 500,
+            "maxPrice": 2000
+        },
+        {
+            "name": "ブラウン管テレビ (14型)",
+            "category": "中古家電",
+            "minPrice": 1000,
+            "maxPrice": 5000
+        },
+        {
+            "name": "MDウォークマン",
+            "category": "オーディオ",
+            "minPrice": 3000,
+            "maxPrice": 12000
+        },
+        {
+            "name": "カセットテープ (未開封)",
+            "category": "オーディオ",
+            "minPrice": 500,
+            "maxPrice": 2000
+        },
+        {
+            "name": "Technics SL-1200 (ジャンク)",
+            "category": "オーディオ",
+            "minPrice": 10000,
+            "maxPrice": 40000
+        },
+        {
+            "name": "Nikon F3 (カビあり)",
+            "category": "カメラ",
+            "minPrice": 5000,
+            "maxPrice": 20000
+        },
+        {
+            "name": "Canon AE-1 (シャッター鳴き)",
+            "category": "カメラ",
+            "minPrice": 3000,
+            "maxPrice": 15000
+        },
+        {
+            "name": "古い三脚",
+            "category": "カメラ",
+            "minPrice": 500,
+            "maxPrice": 2000
+        },
+        {
+            "name": "Fender Stratocaster (Junk)",
+            "category": "楽器",
+            "minPrice": 15000,
+            "maxPrice": 50000
+        },
+        {
+            "name": "BOSS DS-1 (エフェクター)",
+            "category": "楽器",
+            "minPrice": 2000,
+            "maxPrice": 5000
+        },
+        {
+            "name": "YAMAHA アコギ",
+            "category": "楽器",
+            "minPrice": 3000,
+            "maxPrice": 10000
+        }
+    ],
+    "clothing": [
+        {
+            "name": "Levi's 501XX (復刻)",
+            "category": "古着",
+            "minPrice": 5000,
+            "maxPrice": 15000
+        },
+        {
+            "name": "US Army M-65 ジャケット",
+            "category": "古着",
+            "minPrice": 4000,
+            "maxPrice": 12000
+        },
+        {
+            "name": "Champion リバースウィーブ",
+            "category": "古着",
+            "minPrice": 3000,
+            "maxPrice": 9000
+        },
+        {
+            "name": "バンドTシャツ (AC/DC)",
+            "category": "古着",
+            "minPrice": 2000,
+            "maxPrice": 6000
+        },
+        {
+            "name": "Adidas トラックジャケット",
+            "category": "古着",
+            "minPrice": 3000,
+            "maxPrice": 8000
+        },
+        {
+            "name": "Ralph Lauren BDシャツ",
+            "category": "古着",
+            "minPrice": 1500,
+            "maxPrice": 4000
+        },
+        {
+            "name": "Carhartt ダックジャケット",
+            "category": "古着",
+            "minPrice": 5000,
+            "maxPrice": 15000
+        },
+        {
+            "name": "Nike Air Force 1 (白)",
+            "category": "スニーカー",
+            "minPrice": 3000,
+            "maxPrice": 8000
+        },
+        {
+            "name": "Air Jordan 1 (Chicago配色)",
+            "category": "スニーカー",
+            "minPrice": 10000,
+            "maxPrice": 50000
+        },
+        {
+            "name": "New Balance 990",
+            "category": "スニーカー",
+            "minPrice": 8000,
+            "maxPrice": 20000
+        },
+        {
+            "name": "Converse Chuck Taylor (CT70)",
+            "category": "スニーカー",
+            "minPrice": 5000,
+            "maxPrice": 12000
+        },
+        {
+            "name": "Vans Old Skool",
+            "category": "スニーカー",
+            "minPrice": 2000,
+            "maxPrice": 4000
+        },
+        {
+            "name": "Supreme Box Logo Cap",
+            "category": "ブランド",
+            "minPrice": 5000,
+            "maxPrice": 12000
+        },
+        {
+            "name": "Stussy World Tour Tee",
+            "category": "ブランド",
+            "minPrice": 2000,
+            "maxPrice": 5000
+        },
+        {
+            "name": "North Face Nuptse (旧型)",
+            "category": "ブランド",
+            "minPrice": 10000,
+            "maxPrice": 25000
+        }
+    ],
+    "pawn": [
+        {
+            "name": "Rolex Submariner (箱なし)",
+            "category": "時計",
+            "minPrice": 800000,
+            "maxPrice": 1500000
+        },
+        {
+            "name": "Omega Speedmaster pro",
+            "category": "時計",
+            "minPrice": 300000,
+            "maxPrice": 500000
+        },
+        {
+            "name": "Tag Heuer Carrera",
+            "category": "時計",
+            "minPrice": 100000,
+            "maxPrice": 250000
+        },
+        {
+            "name": "Seiko Grand Seiko (QZ)",
+            "category": "時計",
+            "minPrice": 80000,
+            "maxPrice": 200000
+        },
+        {
+            "name": "Casio G-Shock (フロッグマン)",
+            "category": "時計",
+            "minPrice": 30000,
+            "maxPrice": 80000
+        },
+        {
+            "name": "Louis Vuitton Speedy 30",
+            "category": "ブランド",
+            "minPrice": 40000,
+            "maxPrice": 100000
+        },
+        {
+            "name": "Hermes Birkin 35 (傷あり)",
+            "category": "ブランド",
+            "minPrice": 800000,
+            "maxPrice": 2000000
+        },
+        {
+            "name": "Chanel マトラッセ",
+            "category": "ブランド",
+            "minPrice": 300000,
+            "maxPrice": 600000
+        },
+        {
+            "name": "Gucci GGキャンバス",
+            "category": "ブランド",
+            "minPrice": 20000,
+            "maxPrice": 50000
+        },
+        {
+            "name": "Prada ナイロンリュック",
+            "category": "ブランド",
+            "minPrice": 15000,
+            "maxPrice": 40000
+        },
+        {
+            "name": "Tiffany オープンハート",
+            "category": "貴金属",
+            "minPrice": 5000,
+            "maxPrice": 15000
+        },
+        {
+            "name": "Cartier ラブリング",
+            "category": "貴金属",
+            "minPrice": 50000,
+            "maxPrice": 100000
+        },
+        {
+            "name": "18金 喜平ネックレス (30g)",
+            "category": "貴金属",
+            "minPrice": 200000,
+            "maxPrice": 400000
+        },
+        {
+            "name": "プラチナリング (Pt900)",
+            "category": "貴金属",
+            "minPrice": 30000,
+            "maxPrice": 70000
+        }
+    ]
+}
